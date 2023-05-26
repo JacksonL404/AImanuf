@@ -1,0 +1,224 @@
+@Book{制造强国战略研究项目组,
+  author    = {制造强国战略研究项目组},
+  publisher = {电子工业出版社},
+  title     = {制造强国战略研究.智能制造专题卷},
+  year      = {2015.05},
+  isbn      = {9787121260278},
+}
+
+@Article{宋红晓2017,
+  author  = {宋红晓 and 王利刚},
+  journal = {中国新技术新产品},
+  title   = {智能制造技术与系统的发展与研究},
+  year    = {2017},
+  number  = {6},
+  pages   = {127--128},
+}
+
+@Book{托夫勒2006,
+  author    = {托夫勒},
+  publisher = {中信出版社},
+  title     = {第三次浪潮},
+  year      = {2006},
+}
+
+@Article{林国军2023,
+  author  = {林国军},
+  journal = {信息记录材料},
+  title   = {工业大数据在智能制造中的应用价值研究},
+  year    = {2023},
+  issn    = {1009-5624},
+  number  = {98-100},
+  volume  = {24},
+  doi     = {10.16009/j.cnki.cn13-1295/tq.2023.04.014},
+}
+
+@Article{黄慧媛2019,
+  author  = {黄慧媛},
+  journal = {现代制造技术与装备},
+  title   = {面向智能制造的自动控制原理探析},
+  year    = {2019},
+  issn    = {1673-5587},
+  number  = {195-196},
+  volume  = {No.266},
+  doi     = {10.16107/j.cnki.mmte.2019.0103},
+}
+
+@Article{蔡杰2018,
+  author  = {蔡杰},
+  journal = {收藏},
+  title   = {电气自动化控制中的人工智能技术},
+  year    = {2018},
+  volume  = {21},
+}
+
+@Article{邓玲黎2023,
+  author  = {邓玲黎,沈侃; 曹嘉佳},
+  journal = {自动化应用},
+  title   = {智能控制技术在机电控制系统中的应用},
+  year    = {2023},
+  issn    = {1674-778X},
+  number  = {93-95},
+  volume  = {64},
+}
+
+@Article{岳玮2015,
+  author  = {岳玮 and 裴宏杰 and 王贵成},
+  journal = {工具技术},
+  title   = {智能加工技术研究进展与关键技术},
+  year    = {2015},
+  number  = {11},
+  pages   = {3--6},
+  volume  = {49},
+}
+
+@Book{富宏亚2006,
+  author    = {富宏亚 and 韩振宇},
+  publisher = {哈尔滨工业大学出版社},
+  title     = {智能加工技术与系统},
+  year      = {2006},
+}
+
+@Article{王建兴2023,
+  author   = {王建兴},
+  journal  = {长江信息通信},
+  title    = {工业机器人在智能制造中的应用研究},
+  year     = {2023},
+  note     = {42-1914/TN},
+  pages    = {141-143},
+  volume   = {36},
+  abstract = {文章基于工业制造机器人定义分析出，工业机器人特点并从焊接、加工、装配、搬运等方面提出工业机器人在智能制造中的应用措施，最后探究了提高工业机器人在智能制造水平方法，以及工业机器人未来发展方向。},
+  keywords = {工业机器人;智能制造;应用;发展},
+}
+
+@Article{周子又2023,
+  author   = {周子又},
+  journal  = {网络安全和信息化},
+  title    = {工业机器人在智能制造中的应用分析},
+  year     = {2023},
+  issn     = {2096-2215},
+  note     = {10-1416/TN},
+  pages    = {64-66},
+  volume   = {01},
+  abstract = {分析了工业机器人在智能制造中的重要性，并设计出可多角度灵活夹持的工业机器人来提高生产效率。},
+  keywords = {工业机器人;智能制造;},
+}
+
+@Article{李亚敏2023,
+  author   = {李亚敏},
+  journal  = {产业与科技论坛},
+  title    = {工业互联网平台建设与发展策略研究},
+  year     = {2023},
+  issn     = {1673-5641},
+  note     = {13-1371/F},
+  number   = {03},
+  pages    = {11-13},
+  volume   = {22},
+  abstract = {随着新一代信息技术的发展，大数据时代已经全面来临，工业互联网作为新工业革命的关键基础和支撑，通过实现人、机、物的全面互联，构建起全面互联的新型工业生产制造和服务体系。工业互联网包括网络、平台、安全三大体系，其中平台体系是工业智能化发展的核心载体。加快推进工业互联网平台发展是顺应产业发展趋势、赢得市场先机的战略选择。本文对中国及国际主要的工业互联网平台发展背景及现状进行阐述，分析国内工业互联网平台建设的制约因素，提出逐步完善工业互联网平台体系、政策驱动和龙头企业带动加速推动标识普及应用，推进“5G+工业互联网”融合发展应用，完善绩效评价指标，健全工业互联网人才培养体系等针对性建议。为中国制造业企业探索“互联网+”、实现智能制造和转型升级、平台高质量发展，提供了理论依据和实践参考。},
+  keywords = {工业互联网;平台建设;智能制造},
+}
+
+@Article{柴春蕾2021,
+  author  = {柴春蕾 and 曹梅},
+  journal = {智能制造},
+  title   = {智能制造系统架构设计与发展路径研究},
+  year    = {2021},
+  number  = {3},
+  pages   = {41},
+  volume  = {28},
+}
+
+@Article{傅建中2014,
+  author  = {傅建中},
+  journal = {机电工程},
+  title   = {智能制造装备的发展现状与趋势},
+  year    = {2014},
+  number  = {8},
+  pages   = {959--962},
+  volume  = {31},
+}
+
+@Book{中国机械工程学会2012,
+  author    = {中国机械工程学会},
+  publisher = {中国机械工程技术路线图},
+  title     = {中国机械工程技术路线图},
+  year      = {2012},
+}
+
+@PhdThesis{郑茂宽2018,
+  author = {郑茂宽},
+  school = {上海: 上海交通大学},
+  title  = {智能产品服务生态系统理论与方法研究},
+  year   = {2018},
+}
+
+@Article{杨鹏2019,
+  author  = {杨鹏},
+  journal = {现代工业经济和信息化},
+  title   = {论智能制造的发展与智能工厂的实践},
+  year    = {2019},
+  number  = {12},
+  pages   = {13--14},
+  volume  = {9},
+}
+
+@Article{Bunse2013,
+  author  = {Bunse, Benno and Kagermann, Henning and Wahlster, Wolfgand},
+  journal = {GTIA-Germany Trade and Invest},
+  title   = {Industrie 4.0-smart manufacturing for the future},
+  year    = {2013},
+  volume  = {40},
+}
+
+@MastersThesis{张婉姝2018,
+  author = {张婉姝},
+  school = {吉林大学},
+  title  = {美国 “再工业化” 战略的发展研究},
+  year   = {2018},
+}
+
+@Article{Evans2012,
+  author  = {Evans, Peter C and Annunziata, Marco},
+  journal = {General Electric Reports},
+  title   = {Industrial internet: Pushing the boundaries},
+  year    = {2012},
+  pages   = {488--508},
+}
+
+@Article{邓雅静2017,
+  author  = {邓雅静},
+  journal = {电器},
+  title   = {海尔智能制造: 用 “匠心” 打造互联工厂},
+  year    = {2017},
+  number  = {2},
+  pages   = {49--51},
+}
+
+@Article{工业和信息化部2012,
+  author  = {工业和信息化部},
+  journal = {农业工程},
+  title   = {智能制造装备产业“十二五”发展路线图},
+  year    = {2012},
+  issn    = {2095-1795},
+  number  = {83-84},
+  volume  = {2},
+}
+
+@Article{高潮2016,
+  author  = {高潮},
+  journal = {中国对外贸易},
+  title   = {“中国制造2025”与德国“工业4·0”的和而不同},
+  year    = {2016},
+  number  = {005},
+  pages   = {P.29-31},
+  volume  = {000},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: saveActions:disabled;
+all-text-fields[identity]
+date[normalize_date]
+month[normalize_month]
+pages[normalize_page_numbers]
+;}

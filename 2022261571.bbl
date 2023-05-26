@@ -1,0 +1,493 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{01}{book}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={制造强国战略研究项目组},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {电子工业出版社}%
+    }
+    \strng{namehash}{�2}
+    \strng{fullhash}{�2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{9787121260278}
+    \field{title}{制造强国战略研究.智能制造专题卷}
+    \field{year}{2015.05}
+  \endentry
+
+  \entry{02}{article}{}
+    \name{author}{2}{}{%
+      {{hash=�}{%
+         family={宋红晓},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={王利刚},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{��1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6}
+    \field{pages}{127\bibrangedash 128}
+    \field{title}{智能制造技术与系统的发展与研究}
+    \field{journaltitle}{中国新技术新产品}
+    \field{year}{2017}
+  \endentry
+
+  \entry{托夫勒2006}{book}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={托夫勒},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {中信出版社}%
+    }
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{第三次浪潮}
+    \field{year}{2006}
+  \endentry
+
+  \entry{林国军2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={林国军},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�4}
+    \strng{fullhash}{�4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.16009/j.cnki.cn13-1295/tq.2023.04.014
+    \endverb
+    \field{issn}{1009-5624}
+    \field{number}{98-100}
+    \field{title}{工业大数据在智能制造中的应用价值研究}
+    \field{volume}{24}
+    \field{journaltitle}{信息记录材料}
+    \field{year}{2023}
+  \endentry
+
+  \entry{黄慧媛2019}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={黄慧媛},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�4}
+    \strng{fullhash}{�4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.16107/j.cnki.mmte.2019.0103
+    \endverb
+    \field{issn}{1673-5587}
+    \field{number}{195-196}
+    \field{title}{面向智能制造的自动控制原理探析}
+    \field{volume}{No.266}
+    \field{journaltitle}{现代制造技术与装备}
+    \field{year}{2019}
+  \endentry
+
+  \entry{蔡杰2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={蔡杰},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{电气自动化控制中的人工智能技术}
+    \field{volume}{21}
+    \field{journaltitle}{收藏}
+    \field{year}{2018}
+  \endentry
+
+  \entry{邓玲黎2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=���}{%
+         family={邓玲黎},
+         familyi={�\bibinitperiod},
+         given={沈侃;\bibnamedelima 曹嘉佳},
+         giveni={�\bibinitperiod\bibinitdelim �\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{���1}
+    \strng{fullhash}{���1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{issn}{1674-778X}
+    \field{number}{93-95}
+    \field{title}{智能控制技术在机电控制系统中的应用}
+    \field{volume}{64}
+    \field{journaltitle}{自动化应用}
+    \field{year}{2023}
+  \endentry
+
+  \entry{岳玮2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=�}{%
+         family={岳玮},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={裴宏杰},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={王贵成},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�+3}
+    \strng{fullhash}{���1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{11}
+    \field{pages}{3\bibrangedash 6}
+    \field{title}{智能加工技术研究进展与关键技术}
+    \field{volume}{49}
+    \field{journaltitle}{工具技术}
+    \field{year}{2015}
+  \endentry
+
+  \entry{富宏亚2006}{book}{}
+    \name{author}{2}{}{%
+      {{hash=�}{%
+         family={富宏亚},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={韩振宇},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {哈尔滨工业大学出版社}%
+    }
+    \strng{namehash}{�+2}
+    \strng{fullhash}{��1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{智能加工技术与系统}
+    \field{year}{2006}
+  \endentry
+
+  \entry{王建兴2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={王建兴},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \keyw{工业机器人;智能制造;应用;发展}
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+  文章基于工业制造机器人定义分析出，工业机器人特点并从焊接、加工、装配、搬运等方面提出工业机器人在智能制造中的应用措施，最后探究了提高工业机器人在智能制造水平方法，以及工业机器人未来发展方向。%
+    }
+    \field{note}{42-1914/TN}
+    \field{pages}{141\bibrangedash 143}
+    \field{title}{工业机器人在智能制造中的应用研究}
+    \field{volume}{36}
+    \field{journaltitle}{长江信息通信}
+    \field{year}{2023}
+  \endentry
+
+  \entry{周子又2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={周子又},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \keyw{工业机器人;智能制造;}
+    \strng{namehash}{�3}
+    \strng{fullhash}{�3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+  分析了工业机器人在智能制造中的重要性，并设计出可多角度灵活夹持的工业机器人来提高生产效率。%
+    }
+    \field{issn}{2096-2215}
+    \field{note}{10-1416/TN}
+    \field{pages}{64\bibrangedash 66}
+    \field{title}{工业机器人在智能制造中的应用分析}
+    \field{volume}{01}
+    \field{journaltitle}{网络安全和信息化}
+    \field{year}{2023}
+  \endentry
+
+  \entry{李亚敏2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={李亚敏},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \keyw{工业互联网;平台建设;智能制造}
+    \strng{namehash}{�2}
+    \strng{fullhash}{�2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+  随着新一代信息技术的发展，大数据时代已经全面来临，工业互联网作为新工业革命的关键基础和支撑，通过实现人、机、物的全面互联，构建起全面互联的新型工业生产制造和服务体系。工业互联网包括网络、平台、安全三大体系，其中平台体系是工业智能化发展的核心载体。加快推进工业互联网平台发展是顺应产业发展趋势、赢得市场先机的战略选择。本文对中国及国际主要的工业互联网平台发展背景及现状进行阐述，分析国内工业互联网平台建设的制约因素，提出逐步完善工业互联网平台体系、政策驱动和龙头企业带动加速推动标识普及应用，推进“5G+工业互联网”融合发展应用，完善绩效评价指标，健全工业互联网人才培养体系等针对性建议。为中国制造业企业探索“互联网+”、实现智能制造和转型升级、平台高质量发展，提供了理论依据和实践参考。%
+    }
+    \field{issn}{1673-5641}
+    \field{note}{13-1371/F}
+    \field{number}{03}
+    \field{pages}{11\bibrangedash 13}
+    \field{title}{工业互联网平台建设与发展策略研究}
+    \field{volume}{22}
+    \field{journaltitle}{产业与科技论坛}
+    \field{year}{2023}
+  \endentry
+
+  \entry{柴春蕾2021}{article}{}
+    \name{author}{2}{}{%
+      {{hash=�}{%
+         family={柴春蕾},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={曹梅},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{��1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{41}
+    \field{title}{智能制造系统架构设计与发展路径研究}
+    \field{volume}{28}
+    \field{journaltitle}{智能制造}
+    \field{year}{2021}
+  \endentry
+
+  \entry{傅建中2014}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={傅建中},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{8}
+    \field{pages}{959\bibrangedash 962}
+    \field{title}{智能制造装备的发展现状与趋势}
+    \field{volume}{31}
+    \field{journaltitle}{机电工程}
+    \field{year}{2014}
+  \endentry
+
+  \entry{工业和信息化部2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={工业和信息化部},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�1}
+    \strng{fullhash}{�4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{issn}{2095-1795}
+    \field{number}{83-84}
+    \field{title}{智能制造装备产业“十二五”发展路线图}
+    \field{volume}{2}
+    \field{journaltitle}{农业工程}
+    \field{year}{2012}
+  \endentry
+
+  \entry{郑茂宽2018}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={郑茂宽},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�2}
+    \strng{fullhash}{�2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{智能产品服务生态系统理论与方法研究}
+    \list{institution}{1}{%
+      {上海: 上海交通大学}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2018}
+  \endentry
+
+  \entry{杨鹏2019}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={杨鹏},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�3}
+    \strng{fullhash}{�3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{12}
+    \field{pages}{13\bibrangedash 14}
+    \field{title}{论智能制造的发展与智能工厂的实践}
+    \field{volume}{9}
+    \field{journaltitle}{现代工业经济和信息化}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Bunse2013}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BB}{%
+         family={Bunse},
+         familyi={B\bibinitperiod},
+         given={Benno},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kagermann},
+         familyi={K\bibinitperiod},
+         given={Henning},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Wahlster},
+         familyi={W\bibinitperiod},
+         given={Wolfgand},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BB+1}
+    \strng{fullhash}{BBKHWW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Industrie 4.0-smart manufacturing for the future}
+    \field{volume}{40}
+    \field{journaltitle}{GTIA-Germany Trade and Invest}
+    \field{year}{2013}
+  \endentry
+
+  \entry{张婉姝2018}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={张婉姝},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�2}
+    \strng{fullhash}{�5}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{美国 “再工业化” 战略的发展研究}
+    \list{institution}{1}{%
+      {吉林大学}%
+    }
+    \field{type}{mathesis}
+    \field{year}{2018}
+  \endentry
+
+  \entry{高潮2016}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={高潮},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�3}
+    \strng{fullhash}{�3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{005}
+    \field{pages}{P.29\bibrangedash 31}
+  \field{title}{“中国制造2025”与德国“工业4·0”的和而不同}
+    \field{volume}{000}
+    \field{journaltitle}{中国对外贸易}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Evans2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EPC}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Peter\bibnamedelima C},
+         giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Annunziata},
+         familyi={A\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EPC+1}
+    \strng{fullhash}{EPCAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{488\bibrangedash 508}
+    \field{title}{Industrial internet: Pushing the boundaries}
+    \field{journaltitle}{General Electric Reports}
+    \field{year}{2012}
+  \endentry
+
+  \entry{邓雅静2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={邓雅静},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{49\bibrangedash 51}
+    \field{title}{海尔智能制造: 用 “匠心” 打造互联工厂}
+    \field{journaltitle}{电器}
+    \field{year}{2017}
+  \endentry
+\enddatalist
+\endinput
